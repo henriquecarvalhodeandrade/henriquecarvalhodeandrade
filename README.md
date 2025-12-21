@@ -53,10 +53,6 @@ Experiência prática com linguagens, frameworks e ferramentas modernas:
 
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=henriquecarvalhodeandrade&layout=compact&langs_count=7&theme=radical" />
 
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=henriquecarvalhodeandrade&theme=radical" />
-
 ---
 
 ## Conecte-se comigo
