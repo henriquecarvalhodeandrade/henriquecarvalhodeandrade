@@ -1,17 +1,30 @@
-# 👋 Olá, eu sou o Henrique C. de Andrade
+# Olá, meu nome é Henrique!
 
 Sou estudante de tecnologia com foco em engenharia de software, arquitetura de sistemas e análise de dados aplicada, buscando sempre unir fundamentos teóricos sólidos com soluções práticas de impacto real, especialmente na área educacional.
 
 > “Buscando o equilíbrio entre fundamentos teóricos sólidos e soluções práticas de impacto real.”
 
-## 🚀 Sobre Mim
+## Sobre Mim
 
 -   **Educação:** Graduando em Análise e Desenvolvimento de Sistemas — IFSP (2024 – 2026).
 -   **Acadêmico:** Monitor de Introdução à Programação (2025).
 -   **Pesquisa:** Desenvolvedor de plataforma para análise de evasão estudantil com artigo científico publicado.
 -   **Objetivo:** Atuar como Desenvolvedor Full Stack e avançar para o Mestrado, focando em IA e Qualidade de Software.
 
-## 🧠 Tecnologias & Ferramentas
+---
+
+## Meus Projetos
+
+| Projects | ⭐ Stars | 📚 Forks | 🛎 Issues | 📬 Pull requests |
+| :--- | :---: | :---: | :---: | :---: |
+| [**Academic Manager (Node/React)**](https://github.com/henriquecarvalhodeandrade/node-express-react-academic-manager) | ![Stars](https://img.shields.io/github/stars/henriquecarvalhodeandrade/node-express-react-academic-manager?style=flat-square&labelColor=343b41) | ![Forks](https://img.shields.io/github/forks/henriquecarvalhodeandrade/node-express-react-academic-manager?style=flat-square&labelColor=343b41) | ![Issues](https://img.shields.io/github/issues/henriquecarvalhodeandrade/node-express-react-academic-manager?style=flat-square&labelColor=343b41) | ![PR](https://img.shields.io/github/issues-pr/henriquecarvalhodeandrade/node-express-react-academic-manager?style=flat-square&labelColor=343b41) |
+| [**Edu Manager API (Flask)**](https://github.com/henriquecarvalhodeandrade/api-flask-edu-manager) | ![Stars](https://img.shields.io/github/stars/henriquecarvalhodeandrade/api-flask-edu-manager?style=flat-square&labelColor=343b41) | ![Forks](https://img.shields.io/github/forks/henriquecarvalhodeandrade/api-flask-edu-manager?style=flat-square&labelColor=343b41) | ![Issues](https://img.shields.io/github/issues/henriquecarvalhodeandrade/api-flask-edu-manager?style=flat-square&labelColor=343b41) | ![PR](https://img.shields.io/github/issues-pr/henriquecarvalhodeandrade/api-flask-edu-manager?style=flat-square&labelColor=343b41) |
+| [**Movie & Course CRUD API**](https://github.com/henriquecarvalhodeandrade/api-flask-movie-and-course-crud) | ![Stars](https://img.shields.io/github/stars/henriquecarvalhodeandrade/api-flask-movie-and-course-crud?style=flat-square&labelColor=343b41) | ![Forks](https://img.shields.io/github/forks/henriquecarvalhodeandrade/api-flask-movie-and-course-crud?style=flat-square&labelColor=343b41) | ![Issues](https://img.shields.io/github/issues/henriquecarvalhodeandrade/api-flask-movie-and-course-crud?style=flat-square&labelColor=343b41) | ![PR](https://img.shields.io/github/issues-pr/henriquecarvalhodeandrade/api-flask-movie-and-course-crud?style=flat-square&labelColor=343b41) |
+| [**Python Carreiras**](https://github.com/henriquecarvalhodeandrade/python-carreiras) | ![Stars](https://img.shields.io/github/stars/henriquecarvalhodeandrade/python-carreiras?style=flat-square&labelColor=343b41) | ![Forks](https://img.shields.io/github/forks/henriquecarvalhodeandrade/python-carreiras?style=flat-square&labelColor=343b41) | ![Issues](https://img.shields.io/github/issues/henriquecarvalhodeandrade/python-carreiras?style=flat-square&labelColor=343b41) | ![PR](https://img.shields.io/github/issues-pr/henriquecarvalhodeandrade/python-carreiras?style=flat-square&labelColor=343b41) |
+
+---
+
+## Tecnologias & Ferramentas
 
 ### Linguagens de Programação
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
