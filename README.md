@@ -48,7 +48,7 @@ Busco unir fundamentos teóricos sólidos com soluções práticas de impacto re
 | 🎓 Academic Manager | 🎓 Edu Manager API |
 |:---|:---|
 | Sistema fullstack de gestão acadêmica com interface React e backend Node/Express. Cadastro de alunos, disciplinas e notas com autenticação e rotas protegidas. | API REST em Flask para gerenciamento educacional — endpoints para alunos, cursos e matrículas, com validação e banco relacional. |
-| [![Repo](https://img.shields.io/badge/Ver%20Repositório-20232A?style=flat-square&logo=github&logoColor=white)](https://github.com/henriquecarvalhodeandrade/node-express-react-academic-manager) | [![Repo](https://img.shields.io/badge/Ver%20Repositório-20232A?style=flat-square&logo=github&logoColor=white)](https://github.com/henriquecarvalhodeandrade/api-flask-edu-manager) |
+| [![Repo](https://img.shields.io/badge/Ver%20Repositório-20232A?style=flat-square&logo=github&logoColor=white)](https://github.com/henriquecarvalhodeandrade/node-express-react-academic-manager) [![Site](https://img.shields.io/badge/Ir%20ao%20Site-0a66c2?style=flat-square&logo=googlechrome&logoColor=white)](https://sga-frontend-roan.vercel.app/) | [![Repo](https://img.shields.io/badge/Ver%20Repositório-20232A?style=flat-square&logo=github&logoColor=white)](https://github.com/henriquecarvalhodeandrade/api-flask-edu-manager)  |
 | `Node.js` `Express` `React` `MySQL` | `Python` `Flask` `PostgreSQL` |
 
 | 🎬 Movie & Course CRUD | 📊 Python Carreiras |
