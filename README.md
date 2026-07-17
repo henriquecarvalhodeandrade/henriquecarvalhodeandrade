@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C3483&height=180&section=header&text=Henrique%20Carvalho&fontSize=42&fontColor=fff&fontAlignY=38&desc=Desenvolvedor%20Full%20Stack%20%7C%20IFSP&descAlignY=58&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6C3483&height=180&section=header&text=Henrique%20Carvalho%20de%20Andrade&fontSize=42&fontColor=fff&fontAlignY=38&desc=Dev%20Full%20Stack%20%7C%20IFSP&descAlignY=58&descSize=16" />
 
 </div>
 
